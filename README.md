@@ -51,7 +51,7 @@ Here’s a quick snapshot of my tech arsenal:
 
 ## 🌐 **Let's Connect**  
 Feel free to explore my projects and connect with me for collaboration or any exciting opportunities! 🚀  
-- LinkedIn: [Your Profile](https://linkedin.com/in/usman-shahid-mahmood)  
-- Portfolio: [Your Website](https://usm.pythonanywhere.com)  
+- LinkedIn: [Usman Shahid Mahmood](https://linkedin.com/in/usman-shahid-mahmood)  
+- Portfolio: [usm](https://usm.pythonanywhere.com)  
 
 Thanks for visiting! 😊  
