@@ -32,11 +32,11 @@ As a developer, I constantly seek opportunities to grow. Currently, I’m diving
 
 ## 🛠️ **Tech Stack**  
 Here’s a quick snapshot of my tech arsenal:  
-- **Languages:** Python, JavaScript (ES6+), C++, PHP  
-- **Frameworks/Libraries:** Django, Flask, React, Express, Socket.IO  
+- **Languages:** Python, JavaScript (ES6+), C/C++, PHP, C#
+- **Frameworks/Libraries:** Django, DRF, ASP.NET Core, Flask, React, Express, Socket.IO
 - **Databases:** MariaDB, SQLite3, MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Vim, Linux CLI, Docker  
-- **Hosting/Deployment:** VPS Hosting, Nginx, Gunicorn, PythonAnywhere  
+- **Hosting/Deployment:** Azure, Aiven Console, VPS Hosting, Nginx, Gunicorn, PythonAnywhere
 
 ---
 
